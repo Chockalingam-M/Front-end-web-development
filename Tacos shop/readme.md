@@ -1,5 +1,6 @@
 👋 Hello, I'm Chockalingam.M                                                                                                                                           
-I am every interested to say that this is my first project to build a website by  using only HTML Programs.I am Still learning to produce a good website.
+Welcome to "My First HTML Project"! This is a simple project where I've created a basic HTML webpage to help you get started with web development. This project is perfect for beginners who are just starting to explore HTML and want to create their first web page.
 
-If you have finshed your HTML Program,You can check in the following site for error..
----->🔗https://validator.w3.org/
+
+If you have finshed your HTML Program,You can check in the following site for error..                                                                                  
+               ---->🔗https://validator.w3.org/
